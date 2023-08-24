@@ -28,6 +28,6 @@ environment:
 vars:
   name:
     type: string
-    description: Your name
-    default: Dash
-    prompt: What is your name?
+    description: repository name
+    default: name
+    prompt: name?

@@ -15,3 +15,5 @@ bricks:
   repository:
     path:
       bricks/repository
+  widget:
+    path: bricks/widget
