@@ -1,0 +1,17 @@
+bricks:
+  hello: ^0.1.0+1
+  data_source:
+    path:
+      bricks/data_source
+  repo_impl:
+    path:
+      bricks/repo_impl
+  list_controller:
+    path:
+      bricks/list_controller
+  use_case:
+    path:
+      bricks/use_case
+  repository:
+    path:
+      bricks/repository
